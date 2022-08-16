@@ -33,6 +33,9 @@ gem "redis", "~> 4.0"
 # Faker
 gem 'faker'
 
+# simple form
+gem "simple_form", github: "heartcombo/simple_form"
+
 # Use Kredis to get higher-level data types in Redis [https://github.com/rails/kredis]
 # gem "kredis"
 
